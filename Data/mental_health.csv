@@ -1,0 +1,183 @@
+Country,Depression rate,Anxiety rate
+Algeria,0.045,0.045
+Angola,0.036,0.028
+Benin,0.039,0.027
+Botswana,0.047,0.031
+Burkina Faso,0.036,0.027
+Burundi,0.042,0.03
+Cameroon,0.039,0.027
+Cape Verde,0.049,0.031
+Central African Republic,0.042,0.03
+Chad,0.035,0.026
+Comoros,0.044,0.031
+Congo,0.039,0.028
+Ivory Coast,0.038,0.027
+"Congo, the Democratic Republic of the",0.038,0.028
+Equatorial Guinea,0.042,0.029
+Eritrea,0.043,0.031
+Ethiopia,0.047,0.033
+Gabon,0.043,0.03
+Gambia,0.039,0.027
+Ghana,0.042,0.028
+Guinea,0.039,0.027
+Guinea-Bissau,0.04,0.028
+Kenya,0.044,0.031
+Lesotho,0.048,0.031
+Liberia,0.035,0.027
+Madagascar,0.044,0.031
+Malawi,0.041,0.03
+Mali,0.036,0.026
+Mauritania,0.041,0.028
+Mauritius,0.044,0.035
+Mozambique,0.041,0.03
+Namibia,0.044,0.031
+Niger,0.034,0.025
+Nigeria,0.039,0.027
+Rwanda,0.038,0.032
+Sao Tome and Principe,0.039,0.027
+Senegal,0.039,0.027
+Seychelles,0.04,0.033
+Sierra Leone,0.039,0.028
+South Africa,0.046,0.034
+South Sudan,0.044,0.031
+Swaziland,0.042,0.03
+Togo,0.039,0.028
+Uganda,0.046,0.028
+"Tanzania, United Republic of",0.041,0.03
+Zambia,0.04,0.03
+Zimbabwe,0.04,0.028
+Antigua and Barbuda,0.051,0.061
+Argentina,0.047,0.063
+Bahamas,0.052,0.062
+Barbados,0.054,0.061
+Belize,0.044,0.057
+Bolivia,0.044,0.054
+Brazil,0.058,0.093
+Canada,0.047,0.049
+Chile,0.05,0.065
+Colombia,0.047,0.058
+Costa Rica,0.047,0.046
+Cuba,0.055,0.061
+Dominican Republic,0.047,0.057
+Ecuador,0.046,0.056
+El Salvador,0.044,0.046
+Grenada,0.047,0.057
+Guatemala,0.037,0.042
+Guyana,0.045,0.057
+Haiti,0.043,0.055
+Honduras,0.04,0.043
+Jamaica,0.048,0.057
+Mexico,0.042,0.036
+Nicaragua,0.042,0.045
+Panama,0.044,0.045
+Paraguay,0.052,0.076
+Peru,0.048,0.057
+Saint Lucia,0.049,0.059
+Saint Vincent and the Grenadines,0.049,0.058
+Suriname,0.048,0.058
+Trinidad and Tobago,0.052,0.061
+United States,0.059,0.063
+Uruguay,0.05,0.064
+Venezuela,0.042,0.044
+Afghanistan,0.033,0.04
+Bahrain,0.048,0.043
+Djibouti,0.051,0.033
+"Iran, Islamic Republic of",0.049,0.046
+Iraq,0.037,0.045
+Jordan,0.04,0.043
+Kuwait,0.05,0.046
+Lebanon,0.047,0.055
+Libya,0.045,0.045
+Morocco,0.045,0.045
+Oman,0.047,0.041
+Pakistan,0.042,0.035
+Qatar,0.051,0.042
+Saudi Arabia,0.045,0.043
+Somalia,0.04,0.029
+Sudan,0.036,0.041
+Syrian Arab Republic,0.039,0.043
+Tunisia,0.049,0.046
+United Arab Emirates,0.051,0.041
+Yemen,0.036,0.041
+Albania,0.048,0.038
+Armenia,0.05,0.035
+Austria,0.051,0.049
+Azerbaijan,0.046,0.034
+Belarus,0.056,0.032
+Belgium,0.048,0.047
+Bosnia and Herzegovina,0.051,0.038
+Bulgaria,0.052,0.04
+Croatia,0.051,0.038
+Cyprus,0.051,0.051
+Czech Republic,0.052,0.038
+Denmark,0.05,0.049
+Estonia,0.059,0.032
+Finland,0.056,0.032
+France,0.048,0.062
+Georgia,0.05,0.035
+Germany,0.052,0.058
+Greece,0.057,0.049
+Hungary,0.051,0.039
+Iceland,0.041,0.049
+Ireland,0.048,0.063
+Israel,0.046,0.028
+Italy,0.051,0.05
+Kazakhstan,0.044,0.033
+Kyrgyzstan,0.041,0.032
+Latvia,0.049,0.032
+Lithuania,0.056,0.032
+Luxembourg,0.05,0.049
+Malta,0.051,0.049
+Montenegro,0.048,0.038
+Netherlands,0.047,0.064
+Norway,0.047,0.074
+Poland,0.051,0.039
+Portugal,0.057,0.049
+"Moldova, Republic of",0.054,0.032
+Romania,0.05,0.037
+Russian Federation,0.055,0.031
+Serbia,0.05,0.038
+Slovakia,0.051,0.039
+Slovenia,0.051,0.038
+Spain,0.052,0.041
+Sweden,0.049,0.048
+Switzerland,0.05,0.049
+Tajikistan,0.038,0.031
+"Macedonia, the former Yugoslav Republic of",0.05,0.039
+Turkey,0.044,0.04
+Turkmenistan,0.042,0.034
+Ukraine,0.063,0.032
+United Kingdom,0.045,0.042
+Uzbekistan,0.042,0.033
+Bangladesh,0.041,0.044
+Bhutan,0.042,0.037
+"Korea, Democratic People's Republic of",0.037,0.037
+India,0.045,0.03
+Indonesia,0.037,0.033
+Maldives,0.037,0.033
+Myanmar,0.037,0.033
+Nepal,0.032,0.036
+Sri Lanka,0.041,0.034
+Thailand,0.044,0.035
+Timor-Leste,0.03,0.029
+Australia,0.059,0.07
+Brunei,0.04,0.036
+Cambodia,0.034,0.032
+China,0.042,0.031
+Fiji,0.035,0.033
+Japan,0.042,0.031
+Kiribati,0.031,0.032
+Lao People's Democratic Republic,0.032,0.031
+Malaysia,0.038,0.049
+"Micronesia, Federated States of",0.031,0.033
+Mongolia,0.042,0.033
+New Zealand,0.054,0.073
+Papua New Guinea,0.03,0.032
+Philippines,0.033,0.031
+"Korea, Republic of",0.041,0.038
+Samoa,0.032,0.033
+Singapore,0.046,0.036
+Solomon Islands,0.029,0.031
+Tonga,0.032,0.033
+Vanuatu,0.031,0.032
+Vietnam,0.04,0.022
