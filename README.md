@@ -77,6 +77,9 @@ conda env export --name envname > envname.yml -->
 |3| World Health Organisation   |https://www.who.int/| |https://www.who.int/publications/i/item/depression-global-health-estimates|
 |4| About Corona API            |https://about-corona.net/|
 |5| Kaggle Open Source Datasets |https://www.kaggle.com/datasets| 
+|6| Country Demographics |https://gist.github.com/tadast/8827699| 
+|7| Data World - Cities Ranked by Sunshine Hours |https://data.world/makeovermonday/2019w44 
+
 
 
 # Analysis
