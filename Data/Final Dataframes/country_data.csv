@@ -1,0 +1,150 @@
+Country,Region,Happiness Score,Alpha-2 code,Alpha-3 code,Numeric code,Latitude (average),Longitude (average),Population 2020,Med. Age,Urban Pop %
+Finland,Western Europe,7.8420000000000005,FI,FIN,246.0,64.0,26.0,5542237.0,43.0,86%
+Denmark,Western Europe,7.62,DK,DNK,208.0,56.0,10.0,5795780.0,42.0,88%
+Switzerland,Western Europe,7.571000000000001,CH,CHE,756.0,47.0,8.0,8665615.0,43.0,74%
+Iceland,Western Europe,7.553999999999999,IS,ISL,352.0,65.0,-18.0,341628.0,37.0,94%
+Netherlands,Western Europe,7.4639999999999995,NL,NLD,528.0,52.5,5.75,17141544.0,43.0,92%
+Norway,Western Europe,7.392,NO,NOR,578.0,62.0,10.0,5428594.0,40.0,83%
+Sweden,Western Europe,7.3629999999999995,SE,SWE,752.0,62.0,15.0,10110233.0,41.0,88%
+Luxembourg,Western Europe,7.324,LU,LUX,442.0,49.75,6.1667,627704.0,40.0,88%
+New Zealand,North America and ANZ,7.277,NZ,NZL,554.0,-41.0,174.0,4829021.0,38.0,87%
+Austria,Western Europe,7.268,AT,AUT,40.0,47.3333,13.3333,9015361.0,43.0,57%
+Australia,North America and ANZ,7.183,AU,AUS,36.0,-27.0,133.0,25550683.0,38.0,86%
+Israel,Middle East and North Africa,7.157,IL,ISR,376.0,31.5,34.75,8678517.0,30.0,93%
+Germany,Western Europe,7.155,DE,DEU,276.0,51.0,9.0,83830972.0,46.0,76%
+Canada,North America and ANZ,7.103,CA,CAN,124.0,60.0,-95.0,37799407.0,41.0,81%
+Ireland,Western Europe,7.085,IE,IRL,372.0,53.0,-8.0,4947267.0,38.0,63%
+Costa Rica,Latin America and Caribbean,7.069,CR,CRI,188.0,10.0,-84.0,5102158.0,33.0,80%
+United Kingdom,Western Europe,7.064,GB,GBR,826.0,54.0,-2.0,67948282.0,40.0,83%
+Czech Republic,Central and Eastern Europe,6.965,CZ,CZE,203.0,49.75,15.5,10712481.0,43.0,74%
+United States,North America and ANZ,6.9510000000000005,US,USA,840.0,38.0,-97.0,331341050.0,38.0,83%
+Belgium,Western Europe,6.834,BE,BEL,56.0,50.8333,4.0,11598451.0,42.0,98%
+France,Western Europe,6.69,FR,FRA,250.0,46.0,2.0,65298930.0,42.0,82%
+Bahrain,Middle East and North Africa,6.647,BH,BHR,48.0,26.0,50.55,1711057.0,32.0,89%
+Malta,Western Europe,6.602,MT,MLT,470.0,35.8333,14.5833,441750.0,43.0,93%
+Taiwan Province of China,East Asia,6.584,TW,TWN,158.0,23.5,121.0,23824369.0,42.0,79%
+United Arab Emirates,Middle East and North Africa,6.561,AE,ARE,784.0,24.0,54.0,9910892.0,33.0,86%
+Saudi Arabia,Middle East and North Africa,6.494,SA,SAU,682.0,25.0,45.0,34905942.0,32.0,84%
+Spain,Western Europe,6.4910000000000005,ES,ESP,724.0,40.0,-4.0,46757980.0,45.0,80%
+Italy,Western Europe,6.483,IT,ITA,380.0,42.8333,12.8333,60446035.0,47.0,69%
+Slovenia,Central and Eastern Europe,6.461,SI,SVN,705.0,46.0,15.0,2078989.0,45.0,55%
+Guatemala,Latin America and Caribbean,6.435,GT,GTM,320.0,15.5,-90.25,17971382.0,23.0,52%
+Uruguay,Latin America and Caribbean,6.431,UY,URY,858.0,-33.0,-56.0,3475842.0,36.0,96%
+Singapore,Southeast Asia,6.377000000000001,SG,SGP,702.0,1.3667,103.8,5858322.0,42.0,
+Kosovo,Central and Eastern Europe,6.372000000000001,,,,,,,,
+Slovakia,Central and Eastern Europe,6.331,SK,SVK,703.0,48.6667,19.5,5460109.0,41.0,54%
+Brazil,Latin America and Caribbean,6.33,BR,BRA,76.0,-10.0,-55.0,212821986.0,33.0,88%
+Mexico,Latin America and Caribbean,6.317,MX,MEX,484.0,23.0,-102.0,129166028.0,29.0,84%
+Jamaica,Latin America and Caribbean,6.309,JM,JAM,388.0,18.25,-77.5,2963429.0,31.0,55%
+Lithuania,Central and Eastern Europe,6.255,LT,LTU,440.0,56.0,24.0,2715340.0,45.0,71%
+Cyprus,Western Europe,6.223,CY,CYP,196.0,35.0,33.0,1208886.0,37.0,67%
+Estonia,Central and Eastern Europe,6.189,EE,EST,233.0,59.0,26.0,1326693.0,42.0,68%
+Panama,Latin America and Caribbean,6.18,PA,PAN,591.0,9.0,-80.0,4326296.0,30.0,68%
+Uzbekistan,Commonwealth of Independent States,6.178999999999999,UZ,UZB,860.0,41.0,64.0,33551824.0,28.0,50%
+Chile,Latin America and Caribbean,6.172000000000001,CL,CHL,152.0,-30.0,-71.0,19144605.0,35.0,85%
+Poland,Central and Eastern Europe,6.166,PL,POL,616.0,52.0,20.0,37839255.0,42.0,60%
+Kazakhstan,Commonwealth of Independent States,6.152,KZ,KAZ,398.0,48.0,68.0,18815231.0,31.0,58%
+Romania,Central and Eastern Europe,6.14,RO,ROU,642.0,46.0,25.0,19214608.0,43.0,55%
+Kuwait,Middle East and North Africa,6.106,KW,KWT,414.0,29.3375,47.6581,4281320.0,37.0,
+Serbia,Central and Eastern Europe,6.077999999999999,RS,SRB,688.0,44.0,21.0,8731081.0,42.0,56%
+El Salvador,Latin America and Caribbean,6.061,SV,SLV,222.0,13.8333,-88.9167,6491923.0,28.0,73%
+Mauritius,Sub-Saharan Africa,6.0489999999999995,MU,MUS,480.0,-20.2833,57.55,1272140.0,37.0,41%
+Latvia,Central and Eastern Europe,6.032,LV,LVA,428.0,57.0,25.0,1882408.0,44.0,69%
+Colombia,Latin America and Caribbean,6.0120000000000005,CO,COL,170.0,4.0,-72.0,50976248.0,31.0,80%
+Hungary,Central and Eastern Europe,5.992000000000001,HU,HUN,348.0,47.0,20.0,9655983.0,43.0,72%
+Thailand,Southeast Asia,5.985,TH,THA,764.0,15.0,100.0,69830779.0,40.0,51%
+Nicaragua,Latin America and Caribbean,5.972,NI,NIC,558.0,13.0,-85.0,6638075.0,26.0,57%
+Japan,East Asia,5.94,JP,JPN,392.0,36.0,138.0,126407422.0,48.0,92%
+Argentina,Latin America and Caribbean,5.928999999999999,AR,ARG,32.0,-34.0,-64.0,45267449.0,32.0,93%
+Portugal,Western Europe,5.928999999999999,PT,PRT,620.0,39.5,-8.0,10191409.0,46.0,66%
+Honduras,Latin America and Caribbean,5.919,HN,HND,340.0,15.0,-86.5,9931333.0,24.0,57%
+Croatia,Central and Eastern Europe,5.882000000000001,HR,HRV,191.0,45.1667,15.5,4100719.0,44.0,58%
+Philippines,Southeast Asia,5.88,PH,PHL,608.0,13.0,122.0,109830324.0,26.0,47%
+South Korea,East Asia,5.845,KR,KOR,410.0,37.0,127.5,51276977.0,44.0,82%
+Peru,Latin America and Caribbean,5.84,PE,PER,604.0,-10.0,-76.0,33050211.0,31.0,79%
+Bosnia and Herzegovina,Central and Eastern Europe,5.813,BA,BIH,70.0,44.0,18.0,3277152.0,43.0,52%
+Moldova,Commonwealth of Independent States,5.766,MD,MDA,498.0,47.0,29.0,4032294.0,38.0,43%
+Ecuador,Latin America and Caribbean,5.763999999999999,EC,ECU,218.0,-2.0,-77.5,17688599.0,28.0,63%
+Kyrgyzstan,Commonwealth of Independent States,5.744,KG,KGZ,417.0,41.0,75.0,6542426.0,26.0,36%
+Greece,Western Europe,5.723,GR,GRC,300.0,39.0,22.0,10413936.0,46.0,85%
+Bolivia,Latin America and Caribbean,5.716,BO,BOL,68.0,-17.0,-65.0,11700207.0,26.0,69%
+Mongolia,East Asia,5.6770000000000005,MN,MNG,496.0,46.0,105.0,3287242.0,28.0,67%
+Paraguay,Latin America and Caribbean,5.653,PY,PRY,600.0,-23.0,-58.0,7147553.0,26.0,62%
+Montenegro,Central and Eastern Europe,5.581,ME,MNE,499.0,42.0,19.0,628080.0,39.0,68%
+Dominican Republic,Latin America and Caribbean,5.545,DO,DOM,214.0,19.0,-70.6667,10866667.0,28.0,85%
+North Cyprus,Western Europe,5.5360000000000005,,,,,,,,
+Belarus,Commonwealth of Independent States,5.534,BY,BLR,112.0,53.0,28.0,9448772.0,40.0,79%
+Russia,Commonwealth of Independent States,5.477,RU,RUS,643.0,60.0,100.0,145945524.0,40.0,74%
+Hong Kong S.A.R. of China,East Asia,5.477,HK,HKG,344.0,22.25,114.1667,7507523.0,45.0,
+Tajikistan,Commonwealth of Independent States,5.466,TJ,TJK,762.0,39.0,71.0,9573310.0,22.0,27%
+Vietnam,Southeast Asia,5.4110000000000005,VN,VNM,704.0,16.0,106.0,97490013.0,32.0,38%
+Libya,Middle East and North Africa,5.41,LY,LBY,434.0,25.0,17.0,6887247.0,29.0,78%
+Malaysia,Southeast Asia,5.3839999999999995,MY,MYS,458.0,2.5,112.5,32436963.0,30.0,78%
+Indonesia,Southeast Asia,5.345,ID,IDN,360.0,-5.0,120.0,274021604.0,30.0,56%
+Congo (Brazzaville),Sub-Saharan Africa,5.3420000000000005,CG,COG,178.0,-1.0,15.0,5540555.0,19.0,70%
+China,East Asia,5.3389999999999995,CN,CHN,156.0,35.0,105.0,1440297825.0,38.0,61%
+Ivory Coast,Sub-Saharan Africa,5.306,CI,CIV,384.0,8.0,-5.0,,,
+Armenia,Commonwealth of Independent States,5.2829999999999995,AM,ARM,51.0,40.0,45.0,2964219.0,35.0,63%
+Nepal,South Asia,5.269,NP,NPL,524.0,28.0,84.0,29225196.0,25.0,21%
+Bulgaria,Central and Eastern Europe,5.266,BG,BGR,100.0,43.0,25.0,6939018.0,45.0,76%
+Maldives,South Asia,5.1979999999999995,MV,MDV,462.0,3.25,73.0,542151.0,30.0,35%
+Azerbaijan,Commonwealth of Independent States,5.171,AZ,AZE,31.0,40.5,47.5,10154978.0,32.0,56%
+Cameroon,Sub-Saharan Africa,5.142,CM,CMR,120.0,6.0,12.0,26655083.0,19.0,56%
+Senegal,Sub-Saharan Africa,5.132000000000001,SN,SEN,686.0,14.0,-14.0,16816539.0,19.0,49%
+Albania,Central and Eastern Europe,5.117,AL,ALB,8.0,41.0,20.0,2877239.0,36.0,63%
+North Macedonia,Central and Eastern Europe,5.101,MK,MKD,807.0,41.8333,22.0,,,
+Ghana,Sub-Saharan Africa,5.088,GH,GHA,288.0,8.0,-2.0,31181428.0,22.0,57%
+Niger,Sub-Saharan Africa,5.074,NE,NER,562.0,16.0,8.0,24346468.0,15.0,17%
+Turkmenistan,Commonwealth of Independent States,5.066,TM,TKM,795.0,40.0,60.0,6046292.0,27.0,53%
+Gambia,Sub-Saharan Africa,5.051,GM,GMB,270.0,13.4667,-16.5667,2427782.0,18.0,59%
+Benin,Sub-Saharan Africa,5.045,BJ,BEN,204.0,9.5,2.25,12175480.0,19.0,48%
+Laos,Southeast Asia,5.03,LA,LAO,418.0,18.0,105.0,7293542.0,24.0,36%
+Bangladesh,South Asia,5.025,BD,BGD,50.0,24.0,90.0,164972348.0,28.0,39%
+Guinea,Sub-Saharan Africa,4.984,GN,GIN,324.0,11.0,-10.0,13191279.0,18.0,39%
+South Africa,Sub-Saharan Africa,4.956,ZA,ZAF,710.0,-29.0,24.0,59436725.0,28.0,67%
+Turkey,Middle East and North Africa,4.948,TR,TUR,792.0,39.0,35.0,84495243.0,32.0,76%
+Pakistan,South Asia,4.934,PK,PAK,586.0,30.0,70.0,221612785.0,23.0,35%
+Morocco,Middle East and North Africa,4.918,MA,MAR,504.0,32.0,-5.0,36985624.0,30.0,64%
+Venezuela,Latin America and Caribbean,4.8919999999999995,VE,VEN,862.0,8.0,-66.0,28421581.0,30.0,
+Georgia,Commonwealth of Independent States,4.891,GE,GEO,268.0,42.0,43.5,3987805.0,38.0,58%
+Algeria,Middle East and North Africa,4.887,DZ,DZA,12.0,28.0,3.0,43984569.0,29.0,73%
+Ukraine,Commonwealth of Independent States,4.875,UA,UKR,804.0,49.0,32.0,43686577.0,41.0,69%
+Iraq,Middle East and North Africa,4.854,IQ,IRQ,368.0,33.0,44.0,40372771.0,21.0,73%
+Gabon,Sub-Saharan Africa,4.852,GA,GAB,266.0,-1.0,11.75,2234448.0,23.0,87%
+Burkina Faso,Sub-Saharan Africa,4.834,BF,BFA,854.0,13.0,-2.0,20997293.0,18.0,31%
+Cambodia,Southeast Asia,4.83,KH,KHM,116.0,13.0,105.0,16758448.0,26.0,24%
+Mozambique,Sub-Saharan Africa,4.794,MZ,MOZ,508.0,-18.25,35.0,31398811.0,18.0,38%
+Nigeria,Sub-Saharan Africa,4.7589999999999995,NG,NGA,566.0,10.0,8.0,206984347.0,18.0,52%
+Mali,Sub-Saharan Africa,4.723,ML,MLI,466.0,17.0,-4.0,20346106.0,16.0,44%
+Iran,Middle East and North Africa,4.721,IR,IRN,364.0,32.0,53.0,84176929.0,32.0,76%
+Uganda,Sub-Saharan Africa,4.636,UG,UGA,800.0,1.0,32.0,45974931.0,17.0,26%
+Liberia,Sub-Saharan Africa,4.625,LR,LBR,430.0,6.5,-9.5,5077411.0,19.0,53%
+Kenya,Sub-Saharan Africa,4.607,KE,KEN,404.0,1.0,38.0,53968739.0,20.0,28%
+Tunisia,Middle East and North Africa,4.596,TN,TUN,788.0,34.0,9.0,11839918.0,33.0,70%
+Lebanon,Middle East and North Africa,4.584,LB,LBN,422.0,33.8333,35.8333,6819976.0,30.0,78%
+Namibia,Sub-Saharan Africa,4.574,,NAM,516.0,-22.0,17.0,2548663.0,22.0,55%
+Palestinian Territories,Middle East and North Africa,4.5169999999999995,PS,PSE,275.0,32.0,35.25,5121112.0,21.0,80%
+Myanmar,Southeast Asia,4.426,MM,MMR,104.0,22.0,98.0,54473253.0,29.0,31%
+Jordan,Middle East and North Africa,4.395,JO,JOR,400.0,31.0,36.0,10220604.0,24.0,91%
+Chad,Sub-Saharan Africa,4.355,TD,TCD,148.0,15.0,19.0,16502877.0,17.0,23%
+Sri Lanka,South Asia,4.325,LK,LKA,144.0,7.0,81.0,21428970.0,34.0,18%
+Swaziland,Sub-Saharan Africa,4.308,SZ,SWZ,748.0,-26.5,31.5,,,
+Comoros,Sub-Saharan Africa,4.289,KM,COM,174.0,-12.1667,44.25,872695.0,20.0,29%
+Egypt,Middle East and North Africa,4.283,EG,EGY,818.0,27.0,30.0,102659126.0,25.0,43%
+Ethiopia,Sub-Saharan Africa,4.275,ET,ETH,231.0,8.0,38.0,115434444.0,19.0,21%
+Mauritania,Sub-Saharan Africa,4.227,MR,MRT,478.0,20.0,-12.0,4669775.0,20.0,57%
+Madagascar,Sub-Saharan Africa,4.208,MG,MDG,450.0,-20.0,47.0,27808395.0,20.0,39%
+Togo,Sub-Saharan Africa,4.107,TG,TGO,768.0,8.0,1.1667,8310934.0,19.0,43%
+Zambia,Sub-Saharan Africa,4.073,ZM,ZMB,894.0,-15.0,30.0,18468257.0,18.0,45%
+Sierra Leone,Sub-Saharan Africa,3.8489999999999998,SL,SLE,694.0,8.5,-11.5,8004158.0,19.0,43%
+India,South Asia,3.819,IN,IND,356.0,20.0,77.0,1382345085.0,28.0,35%
+Burundi,Sub-Saharan Africa,3.775,BI,BDI,108.0,-3.5,30.0,11948454.0,17.0,14%
+Yemen,Middle East and North Africa,3.658,YE,YEM,887.0,15.0,48.0,29935468.0,20.0,38%
+Tanzania,Sub-Saharan Africa,3.623,TZ,TZA,834.0,-6.0,35.0,60012400.0,18.0,37%
+Haiti,Latin America and Caribbean,3.615,HT,HTI,332.0,19.0,-72.4167,11426356.0,24.0,57%
+Malawi,Sub-Saharan Africa,3.6,MW,MWI,454.0,-13.5,34.0,19211425.0,18.0,18%
+Lesotho,Sub-Saharan Africa,3.512,LS,LSO,426.0,-29.5,28.5,2145194.0,24.0,31%
+Botswana,Sub-Saharan Africa,3.467,BW,BWA,72.0,-22.0,24.0,2359585.0,24.0,73%
+Rwanda,Sub-Saharan Africa,3.415,RW,RWA,646.0,-2.0,30.0,13005303.0,20.0,18%
+Zimbabwe,Sub-Saharan Africa,3.145,ZW,ZWE,716.0,-20.0,30.0,14899771.0,19.0,38%
+Afghanistan,South Asia,2.523,AF,AFG,4.0,33.0,65.0,39074280.0,18.0,25%
