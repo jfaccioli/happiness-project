@@ -5,8 +5,8 @@
 ![happiness](Images/Capture.PNG)    
 
 ## Table of contents  
-* [Project Intro](#Project Intro)  
-* [Project Structure](#Project Structure)  
+* [Project Intro](#Project-Intro)  
+* [Project Structure](#Project-Structure)  
 * [Question](#Questions)  
 * [Datasets](#Datasets)  
 * [Analysis](#Analysis)  
