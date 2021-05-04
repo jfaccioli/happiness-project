@@ -21,14 +21,15 @@ Our analysis will investigate economic, social, environmental and world factors 
 
 
 # Project Structure
-
+```
 happiness-project 
 |__ .gitignore                      # gitignore file  
 |__ Python 3                        # conda environment  
 |   
 |__ data/                           # Contains raw data  
-|     |__ country_data.csv                    # Raw data of analysed countries  
-|     |__ covid_data.csv                      # Collected from https://about-corona.net/ using API calls  
+|   |__ country_data.csv                    # Raw data of analysed countries  
+|   
+|__ covid_data.csv                      # Collected from https://about-corona.net/ using API calls  
 |   |__ mental_health.csv                   # Data of common mental disorders from the World Health Organisation  
 |   |__ Rainfall_data.csv                   # Historical global rainfall by country from the World Bank  
 |   |__ Sunlight_data.csv                   # Global sunlight by country from Kaggle  
@@ -87,7 +88,7 @@ happiness-project
 |     
 |__ proposal/  
 |   |__ Happiness Proposal     # Project proposal   
-  
+``` 
   
 # Questions 
 
