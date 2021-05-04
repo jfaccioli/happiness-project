@@ -11,7 +11,7 @@
 * [Datasets](#Datasets)  
 * [Analysis](#Analysis)  
 * [Contributors](#Contributors)  
-* [Staus](#Status)  
+* [Status](#Status)  
 
 # Project Intro
 
@@ -100,14 +100,17 @@ happiness-project
 
 # Datasets 
 
-|1| World Happiness Report      |https://worldhappiness.report/ed/2021/| |https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021\  
-|2| The World Bank              |https://climateknowledgeportal.worldbank.org/  
-|3| The World Bank              |https://data.worldbank.org| |https://data.worldbank.org/indicator/NY.GDP.PCAP.CD  
-|4| World Health Organisation   |https://www.who.int/| |https://www.who.int/publications/i/item/depression-global-health-estimates  
-|5| About Corona API            |https://about-corona.net/  
-|6| Kaggle Open Source Datasets |https://www.kaggle.com/datasets  
-|7| Country Demographics        |https://gist.github.com/tadast/8827699  
-|8| Data World                  |https://data.world/| |https://data.world/makeovermonday/2019w44   
+|No|Source|Link|
+|-|-|-|
+|1| World Happiness Report         |https://worldhappiness.report/ed/2021/| 
+|2| Kaggle World Happiness Dataset |https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021|
+|3| The World Bank                 |https://climateknowledgeportal.worldbank.org|  
+|4| The World Bank                 |https://data.worldbank.org/indicator/NY.GDP.PCAP.CD|  
+|5| World Health Organisation      |https://www.who.int/publications/i/item/depression-global-health-estimates|  
+|6| About Corona API               |https://about-corona.net|  
+|7| Kaggle Open Source Datasets    |https://www.kaggle.com/datasets|  
+|8| Country Demographics           |https://gist.github.com/tadast/8827699|  
+|9| Data World                     |https://data.world/https://data.world/makeovermonday/2019w44|   
   
   
 # Analysis  
