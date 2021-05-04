@@ -70,17 +70,16 @@ happiness-project
 
 # Datasets 
 
-|-|-|-|
 |1| World Happiness Report      |https://worldhappiness.report/ed/2021/| |https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021\  
-|2| The World Bank              |https://climateknowledgeportal.worldbank.org/|
-|3| The World Bank              |https://data.worldbank.org| |https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
-|4| World Health Organisation   |https://www.who.int/| |https://www.who.int/publications/i/item/depression-global-health-estimates|
-|5| About Corona API            |https://about-corona.net/|
-|6| Kaggle Open Source Datasets |https://www.kaggle.com/datasets| 
-|7| Country Demographics        |https://gist.github.com/tadast/8827699| 
-|8| Data World                  |https://data.world/| |https://data.world/makeovermonday/2019w44 
-
-
+|2| The World Bank              |https://climateknowledgeportal.worldbank.org/  
+|3| The World Bank              |https://data.worldbank.org| |https://data.worldbank.org/indicator/NY.GDP.PCAP.CD  
+|4| World Health Organisation   |https://www.who.int/| |https://www.who.int/publications/i/item/depression-global-health-estimates  
+|5| About Corona API            |https://about-corona.net/  
+|6| Kaggle Open Source Datasets |https://www.kaggle.com/datasets  
+|7| Country Demographics        |https://gist.github.com/tadast/8827699  
+|8| Data World                  |https://data.world/| |https://data.world/makeovermonday/2019w44   
+  
+  
 # Analysis  
   
 ### Question 1: Who is Happy?   
