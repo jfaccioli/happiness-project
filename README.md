@@ -10,56 +10,56 @@ Our analysis will investigate economic, social, environmental and world factors 
 # Project Structure
 
 happiness-project 
-|__ .gitignore                      # gitignore file
-|__ Python 3                        # conda environment
-| 
-|__ data/                           # Contains raw data
-|   |__ country_data.csv                    # Raw data of analysed countries
-|   |__ covid_data.csv                      # Collected from https://about-corona.net/ using API calls
-|   |__ mental_health.csv                   # Data of common mental disorders from the World Health Organisation
-|   |__ Rainfall_data.csv                   # Historical global rainfall by country from the World Bank
-|   |__ Sunlight_data.csv                   # Global sunlight by country from Kaggle
-|   |__ Temp_data.csv                       # Historical global temperatures by country from the World Bank
-|   |__ World_GDP_1960-2019                 # GDP data from the World Bank
-|   |__ World_GDP_per_capita_1960-2019      # GDP data from the World Bank
-|   |__ world-happiness-report.csv          # From historical World Happiness Reports from 2005 to 2020
-|   |__ world-happiness-report-2021.csv     # From the 2021 World Happiness Report
-|   |__ final_df.csv                        # All raw data, cleaned and collated into the one data frame      
-|
-|   |__ Final Dataframes/           # Raw data collated into dataframes, cleaned & exported into .csv files
-|           |__ afghanistan_happiness.csv       # Created from world-happiness-report-2021.csv
-|           |__ australia_happiness.csv         # Created from world-happiness-report-2021.csv
-|           |__ country_df                      # Created from Sunlight_data.csv
-|           |__ final_covid_data.csv            # Created from world-happiness-report-2021 & covid_data.csv
-|           |__ final_df.csv                    # All raw data, cleaned & collated into the one data frame
-|           |__ final_df2.csv                   # All raw data, cleaned & collated into the one data frame
-|           |__ finland_happiness.csv           # Created from world-happiness-report-2021.csv
-|           |__ happiness_df.csv                # Created from world-happiness-report-2021.csv
-|           |__ happiness_time_final.csv        # Created from world-happiness-report & world-happiness-report-2021.csv
-|           |__ mental_health_data.csv          # Created from world-happiness-report-2021 & mental_health.csv
-|           |__ weather_data.csv                # Created from country_data, Temp_data, Rainfall_data, Sunlight_data & world-happiness-report-2021.csv
-|
-|__ notebooks/
-|   |__ Data Exploration and Clean.ipynb    # Cleaning notebook that takes in the raw data and outputs cleaned data for analysis   
-|   |__ Analysis.ipynb                      # Analysis of cleaned data with output of plots and Choropleth maps
+|__ .gitignore                      # gitignore file  
+|__ Python 3                        # conda environment  
 |   
-|__ images/                         # Contains plots from jupyter notebook
-|   |__ australia_afghanistan_finland_happiness
-|   |__ australia_happiness
-|   |__ Happiness_2019_GDP
-|   |__ Happiness_2019_GDP_per_Capita
-|   |__ Happiness_2019_GDP_per_Capita_log
-|   |__ Happiness_Corruption
-|   |__ Happiness_Freedom
-|   |__ Happiness_GDP_per_capita
-|   |__ Happiness_Generosity
-|   |__ Happiness_Life_Expectancy
-|   |__ Happiness_Social_Support
-| 
-|__ proposal/
-|   |__ Happiness Proposal     # Project proposal 
-
-
+|__ data/                           # Contains raw data  
+|   |__ country_data.csv                    # Raw data of analysed countries  
+|   |__ covid_data.csv                      # Collected from https://about-corona.net/ using API calls  
+|   |__ mental_health.csv                   # Data of common mental disorders from the World Health Organisation  
+|   |__ Rainfall_data.csv                   # Historical global rainfall by country from the World Bank  
+|   |__ Sunlight_data.csv                   # Global sunlight by country from Kaggle  
+|   |__ Temp_data.csv                       # Historical global temperatures by country from the World Bank  
+|   |__ World_GDP_1960-2019                 # GDP data from the World Bank  
+|   |__ World_GDP_per_capita_1960-2019      # GDP data from the World Bank  
+|   |__ world-happiness-report.csv          # From historical World Happiness Reports from 2005 to 2020  
+|   |__ world-happiness-report-2021.csv     # From the 2021 World Happiness Report  
+|   |__ final_df.csv                        # All raw data, cleaned and collated into the one data frame        
+|  
+|   |__ Final Dataframes/           # Raw data collated into dataframes, cleaned & exported into .csv files  
+|           |__ afghanistan_happiness.csv       # Created from world-happiness-report-2021.csv  
+|           |__ australia_happiness.csv         # Created from world-happiness-report-2021.csv  
+|           |__ country_df                      # Created from Sunlight_data.csv  
+|           |__ final_covid_data.csv            # Created from world-happiness-report-2021 & covid_data.csv  
+|           |__ final_df.csv                    # All raw data, cleaned & collated into the one data frame  
+|           |__ final_df2.csv                   # All raw data, cleaned & collated into the one data frame  
+|           |__ finland_happiness.csv           # Created from world-happiness-report-2021.csv  
+|           |__ happiness_df.csv                # Created from world-happiness-report-2021.csv  
+|           |__ happiness_time_final.csv        # Created from world-happiness-report & world-happiness-report-2021.csv  
+|           |__ mental_health_data.csv          # Created from world-happiness-report-2021 & mental_health.csv  
+|           |__ weather_data.csv                # Created from country_data, Temp_data, Rainfall_data, Sunlight_data & world-happiness-report-2021.csv  
+|  
+|__ notebooks/  
+|   |__ Data Exploration and Clean.ipynb    # Cleaning notebook that takes in the raw data and outputs cleaned data for analysis     
+|   |__ Analysis.ipynb                      # Analysis of cleaned data with output of plots and Choropleth maps  
+|     
+|__ images/                         # Contains plots from jupyter notebook  
+|   |__ australia_afghanistan_finland_happiness  
+|   |__ australia_happiness  
+|   |__ Happiness_2019_GDP  
+|   |__ Happiness_2019_GDP_per_Capita  
+|   |__ Happiness_2019_GDP_per_Capita_log  
+|   |__ Happiness_Corruption  
+|   |__ Happiness_Freedom  
+|   |__ Happiness_GDP_per_capita  
+|   |__ Happiness_Generosity  
+|   |__ Happiness_Life_Expectancy  
+|   |__ Happiness_Social_Support  
+|   
+|__ proposal/  
+|   |__ Happiness Proposal     # Project proposal   
+  
+  
 # Questions 
 
 1. Who is Happy? 
