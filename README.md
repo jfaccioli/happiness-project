@@ -1,4 +1,17 @@
 ### The Happiness Project
+> Created by Adam Lever, Dale Currigan, and Jimmy faccioli  
+> April 2021
+  
+![happiness](Images/Capture.PNG)    
+
+## Table of contents  
+* [Project Intro](#Project Intro)  
+* [Project Structure](#Project Structure)  
+* [Question](#Questions)  
+* [Datasets](#Datasets)  
+* [Analysis](#Analysis)  
+* [Contributors](#Contributors)  
+* [Staus](#Status)  
 
 # Project Intro
 
@@ -55,7 +68,23 @@ happiness-project
 |   |__ Happiness_Generosity  
 |   |__ Happiness_Life_Expectancy  
 |   |__ Happiness_Social_Support  
-|   
+|   |__ happiness_histogram  
+|   |__ happiness_hemispheres  
+|   |__ happiness_choropleth  
+|   |__ regional_happiness  
+|   |__ regional_happiness_time  
+|   |__ happines_temp  
+|   |__ happiness_rainfall  
+|   |__ happiness_sunlight  
+|   |__ sunlight_GDP  
+|   |__ happiness_depression  
+|   |__ happiness_anxiety  
+|   |__ happiness_covid_cases_pop  
+|   |__ happiness_covid_death_rate  
+|   |__ covid_depression  
+|   |__ covid_GDP  
+|   |__ covid_temp  
+|     
 |__ proposal/  
 |   |__ Happiness Proposal     # Project proposal   
   
@@ -88,30 +117,54 @@ The 2021 happiness report reviews the state of happiness in the world today. Dat
   
 At the top of the Happiness Score rankings Finland is ranked the happiest country in the world. At the bottom is Afghanistan, perhaps not to surprisingly given its years of war over past two decades. Western countries, particularly Scandinavian countries, tended to have higher happiness scores with lower happiness scores being found in African, Middle Eastern and South Asian countries. 
 
+![happiness](Images/choropleth.png)  
 
-Happiness is approximately normally distributed across the globe, a t-test showed that the Northern hemisphere is happier that the Southern hemisphere, with this result being statistically significant.  
+![happiness](Images/regional_happiness_time.png)  
+
+Happiness is approximately normally distributed across the globe, a t-test showed that the Northern hemisphere is happier that the Southern hemisphere, with this result being statistically significant.    
   
+![happiness](Images/happiness_hemispheres.png)  
    
 ### Question 2: What makes us Happy?   
+   
+Analysis showed that there are strong positive correlations between Happiness and GDP per Capita, Social Support, Freedom and Life Expectancy. A nations perceived levels of corruption presented a moderate negative correlation to happiness. Developed regions across the world have maintained higher and relatively stable happiness levels over time, with less developed regions exhibiting more volatile levels of happiness.  
   
-Analysis showed that there are strong positive correlations between Happiness and GDP per Capita, Social Support, Freedom and Life Expectancy. A nations perceived levels of corruption presented a moderate negative correlation to happiness. Developed regions across the world have maintained higher and relatively stable happiness levels over time, with less developed regions exhibiting more volatile levels of happiness. It was found that a Country’s happiness score is inversely correlated with average yearly temperature and sunlight hours, countries with lower temperatures tend to be happier. However, observing the regional distributions in the data it was hypothesised that this relationship may be due to the fact that the wealthier nations tend to have colder climates, with poorer ones being warmer.  
+  ![happiness](images/Happiness_2019_GDP_per_Capita_log.png)  
+
+  ![happiness](Images/Happiness_Freedom.png)  
+
+It was found that a Country’s happiness score is inversely correlated with average yearly temperature and sunlight hours, countries with lower temperatures tend to be happier. However, observing the regional distributions in the data it was hypothesised that this relationship may be due to the fact that the wealthier nations tend to have colder climates, with poorer ones being warmer.  
+
+![happiness](images/happiness_temp.png)  
   
 A surprising reslut from the analysis showed that depression and anxiety are more common in nations with higher happiness scored. This may be due to better recognition, reporting and diagnosis of such conditions in developed countries. Mental health is dependent on a complex balance of biopsychosocial factors, therefore disorders such as depression and anxiety still have a high prevalence despite high national happiness scores.  
+
+![happiness](Images/happiness_depression.png)  
   
   
 ### Question 3: How has the Covid-19 global pandemic affected happiness?  
   
 From the data analysed the Happiness Score does not have a real influence on the number of covid cases per million of population. However a negative correlation was observed between the covid death rate and happiness score. However, restricted was limited due to data limitations.  
-  
+
+![happiness](Images/happiness_covid_cases_pop.png)  
+
+![happiness](Images/happiness_covid_death_rate.png)  
   
 ### Question 4: How happy are we in Australia?  
   
 Ranking 11 out of the 149 countries included in the report, it would be fair to call Australia one of the happiest nations in the world. However, data also shows that the level of happiness in Australia has shown slight decline since scores 2005.  
   
+![happiness](images/australia_happiness.png) 
   
 # Contributors  
   
 - [@adamlever](https://github.com/adamlever)  
 - [@dcurrigan](https://github.com/dcurrigan)  
 - [@jfaccioli](https://github.com/jfaccioli)  
+
+## Status
+Project is: 
+````diff 
++ Completed
+````
   
