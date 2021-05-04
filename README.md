@@ -39,7 +39,7 @@ happiness-project
 |   |__ world-happiness-report.csv          # From historical World Happiness Reports from 2005 to 2020  
 |   |__ world-happiness-report-2021.csv     # From the 2021 World Happiness Report  
 |   |__ final_df.csv                        # All raw data, cleaned and collated into the one data frame        
-|  
+|___  
 |   |__ Final Dataframes/           # Raw data collated into dataframes, cleaned & exported into .csv files  
 |           |__ afghanistan_happiness.csv       # Created from world-happiness-report-2021.csv  
 |           |__ australia_happiness.csv         # Created from world-happiness-report-2021.csv  
