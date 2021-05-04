@@ -2,7 +2,7 @@
 > Created by Adam Lever, Dale Currigan, and Jimmy faccioli  
 > April 2021
   
-![happiness](Images/Capture.PNG)    
+![happiness](images/Capture.PNG)    
 
 ## Table of contents  
 * [Project Intro](#Project-Intro)  
@@ -121,13 +121,13 @@ The 2021 happiness report reviews the state of happiness in the world today. Dat
   
 At the top of the Happiness Score rankings Finland is ranked the happiest country in the world. At the bottom is Afghanistan, perhaps not to surprisingly given its years of war over past two decades. Western countries, particularly Scandinavian countries, tended to have higher happiness scores with lower happiness scores being found in African, Middle Eastern and South Asian countries. 
 
-![happiness](Images/choropleth.png)  
+![happiness](images/chorlopleth.png)  
 
-![happiness](Images/regional_happiness_time.png)  
+![happiness](images/regional_happiness_time.png)  
 
 Happiness is approximately normally distributed across the globe, a t-test showed that the Northern hemisphere is happier that the Southern hemisphere, with this result being statistically significant.    
   
-![happiness](Images/happiness_hemispheres.png)  
+![happiness](images/happiness_hemispheres.png)  
    
 ### Question 2: What makes us Happy?   
    
@@ -135,7 +135,7 @@ Analysis showed that there are strong positive correlations between Happiness an
   
   ![happiness](images/Happiness_2019_GDP_per_Capita_log.png)  
 
-  ![happiness](Images/Happiness_Freedom.png)  
+  ![happiness](images/Happiness_Freedom.png)  
 
 It was found that a Country’s happiness score is inversely correlated with average yearly temperature and sunlight hours, countries with lower temperatures tend to be happier. However, observing the regional distributions in the data it was hypothesised that this relationship may be due to the fact that the wealthier nations tend to have colder climates, with poorer ones being warmer.  
 
@@ -143,16 +143,16 @@ It was found that a Country’s happiness score is inversely correlated with ave
   
 A surprising reslut from the analysis showed that depression and anxiety are more common in nations with higher happiness scored. This may be due to better recognition, reporting and diagnosis of such conditions in developed countries. Mental health is dependent on a complex balance of biopsychosocial factors, therefore disorders such as depression and anxiety still have a high prevalence despite high national happiness scores.  
 
-![happiness](Images/happiness_depression.png)  
+![happiness](images/happiness_depression.png)  
   
   
 ### Question 3: How has the Covid-19 global pandemic affected happiness?  
   
 From the data analysed the Happiness Score does not have a real influence on the number of covid cases per million of population. However a negative correlation was observed between the covid death rate and happiness score. However, restricted was limited due to data limitations.  
 
-![happiness](Images/happiness_covid_cases_pop.png)  
+![happiness](images/happiness_covid_cases_pop.png)  
 
-![happiness](Images/happiness_covid_death_rate.png)  
+![happiness](images/happiness_covid_death_rate.png)  
   
 ### Question 4: How happy are we in Australia?  
   
