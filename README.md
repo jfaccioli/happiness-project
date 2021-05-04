@@ -1,4 +1,4 @@
-### The Happiness Project
+# The Happiness Project
 > Created by Adam Lever, Dale Currigan, and Jimmy faccioli  
 > April 2021
   
