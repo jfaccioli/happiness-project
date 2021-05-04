@@ -86,7 +86,10 @@ happiness-project
 
 The 2021 happiness report reviews the state of happiness in the world today. Data from the report was used in this project to investigate which countries across the globe ranked the happiest and how the state of happiness across the globe has changed since 2005.   
   
-At the top of the Happiness Score rankings Finland is ranked the happiest country in the world. At the bottom is Afghanistan, perhaps not to surprisingly given its years of war over past two decades. Western countries, particularly Scandinavian countries, tended to have higher happiness scores with lower happiness scores being found in African, Middle Eastern and South Asian countries. Happiness is approximately normally distributed across the globe, a t-test showed that the Northern hemisphere is happier that the Southern hemisphere, with this result being statistically significant.  
+At the top of the Happiness Score rankings Finland is ranked the happiest country in the world. At the bottom is Afghanistan, perhaps not to surprisingly given its years of war over past two decades. Western countries, particularly Scandinavian countries, tended to have higher happiness scores with lower happiness scores being found in African, Middle Eastern and South Asian countries. 
+
+
+Happiness is approximately normally distributed across the globe, a t-test showed that the Northern hemisphere is happier that the Southern hemisphere, with this result being statistically significant.  
   
    
 ### Question 2: What makes us Happy?   
