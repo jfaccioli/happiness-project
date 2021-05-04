@@ -71,7 +71,7 @@ happiness-project
 # Datasets 
 
 |-|-|-|
-|1| World Happiness Report      |https://worldhappiness.report/ed/2021/| |https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021\|
+|1| World Happiness Report      |https://worldhappiness.report/ed/2021/| |https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021\  
 |2| The World Bank              |https://climateknowledgeportal.worldbank.org/|
 |3| The World Bank              |https://data.worldbank.org| |https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
 |4| World Health Organisation   |https://www.who.int/| |https://www.who.int/publications/i/item/depression-global-health-estimates|
